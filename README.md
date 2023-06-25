@@ -1,5 +1,6 @@
 ### 👋 Hello, I'm Sadhika Akula
 
+I’m a student at UC Berkeley, studying Electrical Engineering and Computer Science. I'm interested in human-computer interaction and building products using software and hardware that can enhance our lives. At Berkeley, I'm crafting community with SWE and been on course staff for CS61C. I've also developed new testing pipelines and infrastructure for data at Lawrence Livermore National Laboratory (LLNL). Currently, I'm building iOS apps and taking classes in design, embedded systems, and animation. I also enjoy podcasts, playing tennis, and learning new languages.
 <!--
 **SadhikaA/SadhikaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
